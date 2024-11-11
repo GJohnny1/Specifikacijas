@@ -1,0 +1,2 @@
+# Specifikacijas
+Programmu specifikācijas.
